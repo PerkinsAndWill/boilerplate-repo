@@ -1,0 +1,26 @@
+{
+  "title":"Boilerplate for new repositories",
+  "description":"Use this boilerplate for all new repositories in the Perkins+Will system",
+  "author":"Pat Example <pat.example@example.com>",
+  "contributors":[{
+    "Kyle Example <kyle.example@example.com>"
+  }],
+  "offices":[
+    "NewYork",
+    "SanFrancisco"
+  ],
+  "projects":[{
+    "name":"Example Project",
+    "number":"123456.000"
+  }],
+  "marketSectors":[
+    "CCC",
+    "HC"
+  ],
+  "dependencies":[{
+    "author":"Autodesk",
+    "name":"Revit",
+    "version":"2016"
+  }],
+  "tags":["boilerplate","example"]
+}
