@@ -1,9 +1,10 @@
 {
   "title":"Boilerplate for new repositories",
   "description":"Use this boilerplate for all new repositories in the Perkins+Will system",
-  "author":"Pat Example <pat.example@example.com>",
-  "contributors":[{
-    "Kyle Example <kyle.example@example.com>"
+  "authors"::[{
+    "name":"Kyle Example",
+    "email":"kyle.example@example.com",
+    "role":"developer"
   }],
   "offices":[
     "NewYork",
@@ -22,5 +23,8 @@
     "name":"Revit",
     "version":"2016"
   }],
-  "tags":["boilerplate","example"]
+  "tags":[
+    "boilerplate",
+    "example"
+  ]
 }
